@@ -11,7 +11,7 @@ package ca2;
 public class TaskOne {
     int[] array = {4, 5, 6, 7, 4, 8, 7, 4, 8, 4, 9};    
     
-    // test
+    int num = 1;
 }
 /*
 Program to find the first repeated element in an array of integers. It should:

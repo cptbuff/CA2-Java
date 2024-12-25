@@ -1,4 +1,4 @@
-// Repo Link: https://github.com/cptbuff/TaskTwo-Array_Multiplication_Table.git
+// Repo Link: https://github.com/cptbuff/CA2-Java.git
 
 package tasktwo;
 

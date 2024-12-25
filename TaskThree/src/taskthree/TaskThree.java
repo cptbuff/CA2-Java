@@ -1,4 +1,4 @@
-// Repo LInk: https://github.com/cptbuff/CA2-Java
+// Repo LInk: https://github.com/cptbuff/CA2-Java.git
 
 package taskthree;
 

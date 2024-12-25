@@ -1,8 +1,7 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
+// Repo link: https://github.com/cptbuff/CA2-Java.git
+
 package taskone;
+
 import java.util.Scanner;
 import java.util.Arrays;
 /**
